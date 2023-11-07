@@ -7,18 +7,24 @@ main:
   - name: About
     url: tour
     weight: 10
-  - name: News
+  - name: Team
     url: post
     weight: 20
-  - name: People
+  - name: Partners
     url: people
     weight: 30
   - name: Events
     url: event
     weight: 40
-  - name: Publications
+  - name: Stories
     url: publication
-    weight: 50
+    weight: 50 
+  - name: Galleries
+    url: publication
+    weight: 60
+  - name: Outputs
+    url: publication
+    weight: 70
   - name: Contact
     url: contact
-    weight: 60
+    weight: 80
